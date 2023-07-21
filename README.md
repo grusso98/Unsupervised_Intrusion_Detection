@@ -15,4 +15,9 @@ The contributions can be summarized as follows:
 
 - [@grusso98](https://github.com/grusso98)
 
+## Images
+![Alt text](https://github.com/grusso98/UnsupervisedIntrusionDetection/blob/main/imgs/overview.png "Overview")
 
+![Alt text](https://github.com/grusso98/UnsupervisedIntrusionDetection/blob/main/imgs/testbed.png "Testbed")
+
+![Alt text](https://github.com/grusso98/UnsupervisedIntrusionDetection/blob/main/imgs/model-design-overview.png "Model Design")
