@@ -17,10 +17,14 @@ The contributions can be summarized as follows:
 
 ## Images
 **IDS Overview**
+</br>
 ![Alt text](https://github.com/grusso98/UnsupervisedIntrusionDetection/blob/main/imgs/overview.png "Overview")
 </br>
 **Architecture Testbed**
+</br>
 ![Alt text](https://github.com/grusso98/UnsupervisedIntrusionDetection/blob/main/imgs/testbed.png "Testbed")
 </br>
 **ML Model Design**
+</br>
 ![Alt text](https://github.com/grusso98/UnsupervisedIntrusionDetection/blob/main/imgs/model-design-overview.png "Model Design")
+</br>
