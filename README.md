@@ -1,4 +1,4 @@
-![alt text](https://github.com/grusso98/UnsupervisedIntrusionDetection/blob/main/imgs/Unsupervised%20Machine%20Learning%20for%20IDS.png)
+
 # Unsupervised Machine Learning for Intrusion Detection Systems
 This repository contains the codes used for my master thesis: "**Unsupervised Machine Learning for Intrusion Detection Systems**". For more information on the architecture setup you can take a look at the Appendix section in the thesis.
 
